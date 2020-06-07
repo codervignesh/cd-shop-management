@@ -22,10 +22,10 @@ ABSTRACT:
 
 
 # CREDITS
-Vignesh.R 
-*Instagram*   https://instagram.com/vignesh_r_?igshid=w0k23i459w8s
-*github*      https://github.com/codervignesh
+Vignesh.R <br/>
+*Instagram*   https://instagram.com/vignesh_r_?igshid=w0k23i459w8s <br/>
+*github*      https://github.com/codervignesh <br/>
 
-Karthik Raja
-*Instagram*   https://instagram.com/mr.anonymous_official?igshid=1oxvvjq68ucvk
-*github*      https://github.com/mr-anonymous-official
+Karthik Raja <br/>
+*Instagram*   https://instagram.com/mr.anonymous_official?igshid=1oxvvjq68ucvk  <br/>
+*github*      https://github.com/mr-anonymous-official <br/>
