@@ -23,9 +23,9 @@ ABSTRACT:<br/>
 
 # CREDITS
 Vignesh.R <br/>
-*Instagram*   https://instagram.com/vignesh_r_?igshid=w0k23i459w8s <br/>
+*Instagram*   https://instagram.com/vignesh_r_ <br/>
 *github*      https://github.com/codervignesh <br/>
 
 Karthik Raja <br/>
-*Instagram*   https://instagram.com/mr.anonymous_official?igshid=1oxvvjq68ucvk  <br/>
+*Instagram*   https://instagram.com/mr.anonymous_official <br/>
 *github*      https://github.com/mr-anonymous-official <br/>
