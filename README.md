@@ -1,5 +1,6 @@
 # cd-shop-management
-cd shop management using data structures concept (arrays, queue, linked list, searching and sorting) in c language
+cd shop management using data structures concept (arrays, queue, linked list, searching and sorting) in c and c++ language
+(works on both c and c++)
 
 # VERSION 1.0
 cd shop management using data structures concept (queue, linked list) in c language
