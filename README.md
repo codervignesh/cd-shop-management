@@ -37,7 +37,7 @@ ABSTRACT:<br/>
 :white_check_mark:**Karthik Raja**
 ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
 <br/>
-[![alt text][1.1]][1][![alt text][1.2]][11] <br/>
+[![alt text][1.1]][1]<br/>[![alt text][1.2]][11] <br/>
 
 :white_check_mark:**Vignesh.R**
 ![GitHub followers](https://img.shields.io/github/followers/codervignesh?label=codervignesh&style=social)  <br/>
